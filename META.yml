@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Xorg-XLFD
-version:            0.013
+version:            0.014
 abstract:           
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
