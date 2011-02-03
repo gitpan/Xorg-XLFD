@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Xorg-XLFD
-version:            0.015
+version:            0.016
 abstract:           
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
@@ -11,7 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    perl:  5.010001
+    perl:  5.1
 resources:
     bugtracker:  https://github.com/trapd00r/Xorg-XLFD/issues
     repository:  https://github.com/trapd00r/Xorg-XLFD
