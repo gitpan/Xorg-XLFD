@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Xorg-XLFD
-version:            0.120
-abstract:           
+version:            0.122
+abstract:           X11 logical font description interface
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
 license:            perl
@@ -11,7 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    perl:  5.1
+    perl:  5.01
 resources:
     bugtracker:  https://github.com/trapd00r/Xorg-XLFD/issues
     repository:  https://github.com/trapd00r/Xorg-XLFD
