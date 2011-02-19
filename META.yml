@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Xorg-XLFD
-version:            0.124
+version:            0.125
 abstract:           X11 logical font description interface
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
